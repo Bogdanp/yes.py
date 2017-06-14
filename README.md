@@ -18,7 +18,7 @@ A fast implementation of `yes` in Python.
 
 ``` text
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2017
+                    Version 2, December 2004
 
  Copyright (C) 2017 Bogdan Popa <popa.bogdanp@gmail.com>
 
